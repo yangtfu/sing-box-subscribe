@@ -825,12 +825,12 @@
                             "icc2022",
                             "dreame",
                             "zgo",
-                            "yangtf",
-                            "drmim",
                             "cgmazi"
                         ],
                         "domain_suffix": [
-                            "61149038.xyz"
+                            "61149038.xyz",
+                            "yangtf.top",
+                            "drmim.top"
                         ],
                         "ip_cidr": [
                             "23.185.200.9",
